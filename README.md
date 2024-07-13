@@ -8,7 +8,7 @@
 |<img src="https://avatars.githubusercontent.com/u/69795199?v=4" width="100" height="100"/> | <img src="https://avatars.githubusercontent.com/u/48405500?v=4" width="100" height="100"/> | <img src="https://avatars.githubusercontent.com/u/101504594?v=4" width="100" height="100"/> |
 
 #### 일정
-|||
+|챕터|기간|
 |---|---|
 |__1-3장__|24-06-03 ~ 24-06-09|
 |__4-5장__|24-06-10 ~ 24-06-16|
